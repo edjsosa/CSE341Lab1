@@ -1,0 +1,26 @@
+{
+  "name": "cse341lab1",
+  "version": "1.0.0",
+  "description": "BYU-I CSE 341 Lab 1",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edjsosa/CSE341Lab1.git"
+  },
+  "keywords": [
+    "BYU-I",
+    "CSE",
+    "341",
+    "Lab",
+    "1"
+  ],
+  "author": "Eddy Sosa Lora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edjsosa/CSE341Lab1/issues"
+  },
+  "homepage": "https://github.com/edjsosa/CSE341Lab1#readme"
+}
